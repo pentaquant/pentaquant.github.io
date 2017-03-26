@@ -1,0 +1,18 @@
+h1 {
+  border: 20px solid black;
+  padding: 20px;
+  font-family: arial;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+table {
+  padding: 20px;
+}
+
+* {
+  outline: 1px solid red;
+  font-family: arial;
+}
