@@ -1,11 +1,30 @@
+body {
+  background-color: gray;
+}
+
+h1 {
+  border: 20px solid black;
+  padding: 10px;
+  font-family: arial;
+  display: block;
+  margin: auto;
+  text-align: center;
+  background-image: url(stockchart.jpg);
+  color: yellow;
+}
+
+li a {
+  text-align: center;
+}
+
 a:link {
   color:blue;
 }
 
 a:visited {
-  color: green;
+  color: yellow;
 }
 
 a:hover {
-  color:pink;
+  color: blue;
 }
